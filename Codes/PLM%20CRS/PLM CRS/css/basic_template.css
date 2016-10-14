@@ -1,0 +1,33 @@
+
+.carousel-inner 
+{
+	padding-bottom: 940px; 
+	width:100%;
+  	max-height: 400px; !important;
+}
+
+.carousel-indicators li { 
+    width: 15px;
+    height: 15px;
+    margin: 5px;
+ 	cursor: pointer;
+    border-radius: 50%;
+    background-color: gray;
+    box-shadow: inset 1px 1px 1px 1px rgba(0,0,0,0.5);    
+}
+.carousel-indicators .active {
+    width: 15px;
+    height: 15px;
+    margin: 5px;
+    background-color: red;
+}
+
+.table
+{
+	width: 700px;
+}
+
+.title
+{
+	text-align: center;
+}
